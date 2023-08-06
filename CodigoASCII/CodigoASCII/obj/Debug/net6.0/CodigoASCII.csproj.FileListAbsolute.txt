@@ -1,0 +1,16 @@
+C:\Users\SOFI\source\repos\CodigoASCII\CodigoASCII\CodigoASCII\bin\Debug\net6.0\CodigoASCII.exe
+C:\Users\SOFI\source\repos\CodigoASCII\CodigoASCII\CodigoASCII\bin\Debug\net6.0\CodigoASCII.deps.json
+C:\Users\SOFI\source\repos\CodigoASCII\CodigoASCII\CodigoASCII\bin\Debug\net6.0\CodigoASCII.runtimeconfig.json
+C:\Users\SOFI\source\repos\CodigoASCII\CodigoASCII\CodigoASCII\bin\Debug\net6.0\CodigoASCII.dll
+C:\Users\SOFI\source\repos\CodigoASCII\CodigoASCII\CodigoASCII\bin\Debug\net6.0\CodigoASCII.pdb
+C:\Users\SOFI\source\repos\CodigoASCII\CodigoASCII\CodigoASCII\obj\Debug\net6.0\CodigoASCII.csproj.AssemblyReference.cache
+C:\Users\SOFI\source\repos\CodigoASCII\CodigoASCII\CodigoASCII\obj\Debug\net6.0\CodigoASCII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOFI\source\repos\CodigoASCII\CodigoASCII\CodigoASCII\obj\Debug\net6.0\CodigoASCII.AssemblyInfoInputs.cache
+C:\Users\SOFI\source\repos\CodigoASCII\CodigoASCII\CodigoASCII\obj\Debug\net6.0\CodigoASCII.AssemblyInfo.cs
+C:\Users\SOFI\source\repos\CodigoASCII\CodigoASCII\CodigoASCII\obj\Debug\net6.0\CodigoASCII.csproj.CoreCompileInputs.cache
+C:\Users\SOFI\source\repos\CodigoASCII\CodigoASCII\CodigoASCII\obj\Debug\net6.0\CodigoASCII.dll
+C:\Users\SOFI\source\repos\CodigoASCII\CodigoASCII\CodigoASCII\obj\Debug\net6.0\refint\CodigoASCII.dll
+C:\Users\SOFI\source\repos\CodigoASCII\CodigoASCII\CodigoASCII\obj\Debug\net6.0\CodigoASCII.pdb
+C:\Users\SOFI\source\repos\CodigoASCII\CodigoASCII\CodigoASCII\obj\Debug\net6.0\CodigoASCII.genruntimeconfig.cache
+C:\Users\SOFI\source\repos\CodigoASCII\CodigoASCII\CodigoASCII\obj\Debug\net6.0\ref\CodigoASCII.dll
+C:\Users\SOFI\source\repos\CodigoASCII\CodigoASCII\CodigoASCII\bin\Debug\net6.0\JSON\frases.json
